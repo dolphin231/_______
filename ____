@@ -207,6 +207,6 @@ end)
 -- unlock all --
 if unlockall then
     task.wait(3)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/dolphin231/-/refs/heads/main/-.lua"))()
+    loadstring(game:HttpGet("https://gist.github.com/dolphin231/4a3321dcabd4a5e12a1f58aa569693ae"))()
 
 end
